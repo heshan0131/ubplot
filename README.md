@@ -1,4 +1,4 @@
-uberplot
+ubplot
 ========
 
 Plotting style for ggplot
