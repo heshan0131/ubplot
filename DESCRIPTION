@@ -1,0 +1,9 @@
+Package: uberplot
+Type: Package
+Title: Uber plotting style
+Version: 1.0
+Date: 2014-07-07
+Author: Shan He
+Maintainer: Shan He<shan@uber.com>
+Description: Define the plotting style used in Uber data analytics team
+License: GPL-2
