@@ -1,9 +1,9 @@
 Package: uberplot
 Type: Package
-Title: Uber plotting style
+Title: ggplot themes
 Version: 1.0
-Date: 2014-07-07
+Date: 2014-07-09
 Author: Shan He
-Maintainer: Shan He<shan@uber.com>
-Description: Define the plotting style used in Uber data analytics team
-License: GPL-2
+Maintainer: Shan He <shan@uber.com>
+Description: 5 ggplot themes for elegant data plots
+License: Uber
